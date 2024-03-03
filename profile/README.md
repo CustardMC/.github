@@ -1,6 +1,6 @@
 # This is CustardMC
 
-##About US
+## About US
 
 ### We create Minecraft Content for everyone.
 * We do not accept outside contributions. But feel free to leave suggestions.
