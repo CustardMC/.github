@@ -3,7 +3,6 @@
 ## About US
 
 ### We create Minecraft Content for everyone.
-* We do not accept outside contributions. But feel free to leave suggestions.
 * Join our community discord server (Coming soon)
 * Our website (Maybe soon?)
 We love custard btw.
